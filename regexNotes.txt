@@ -1,0 +1,7 @@
+^(.*?)com
+
+
+^ Start at beginning of line
+() capture everything between the parenthesis
+.* matches anything named "com" and 
+? with the minimum amount of times possible
